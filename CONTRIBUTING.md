@@ -21,6 +21,12 @@ newspaper or travel site only with a date) **and the date you read it**. No link
 
 Issues or pull requests that hold any of this are closed and their text removed.
 
+## Discussions
+
+Questions, ideas and talk about EuroBonus award zones and partners are welcome in Discussions. The same rules apply
+there: no seats or prices from your own account, no screenshots of it, no personal details. A fact that should change
+the data still needs an issue with its public link.
+
 ## How it is checked
 
 A person reads every suggestion and opens its link before anything changes. Merged facts are checked again before
