@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Dotflight award zones
+message: "Source: Dotflight (dotflight.se)"
+type: dataset
+authors:
+  - name: Dotflight
+url: "https://dotflight.se/award-flights/eurobonus-award-zones"
+license: CC-BY-4.0
+date-released: "2026-11-22"

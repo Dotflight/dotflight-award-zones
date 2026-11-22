@@ -1,0 +1,16 @@
+{
+ "sources": [
+  "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+  "https://www.flysas.com/en/eurobonus/award-flights"
+ ],
+ "rules": {
+  "one_way": "One way costs 60% of the round-trip price.",
+  "double": "Air Europa, China Airlines and Vietnam Airlines cost double points.",
+  "children": "No child discount on partner flights.",
+  "stopover": "On partner flights, no stopovers longer than 24 hours.",
+  "sas_stopover": "On SAS's own flights to or from Asia or North America, one stopover over 24 hours each way is allowed.",
+  "mix": "SAS and other SkyTeam airlines can be mixed in one booking.",
+  "fee": "Partner bookings carry a booking fee per traveller; from 5 May 2026 it can be refunded, for a charge, with the points.",
+  "voucher": "The Amex 2-for-1 voucher: one per booking, for at most two travellers."
+ }
+}

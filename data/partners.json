@@ -1,0 +1,204 @@
+{
+ "notice": "Independent; not affiliated with or endorsed by SAS. SAS and EuroBonus are trademarks of their owner. This is our reading of SAS's public pages, with no guarantee: SAS's own pages and booking always have the final word.",
+ "checked": "2026-11-03",
+ "partners": [
+  {
+   "code": "SK",
+   "name": "SAS",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "AF",
+   "name": "Air France",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "KL",
+   "name": "KLM",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "DL",
+   "name": "Delta",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "VS",
+   "name": "Virgin Atlantic",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "KE",
+   "name": "Korean Air",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "SV",
+   "name": "Saudia",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "KQ",
+   "name": "Kenya Airways",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
+   "source_date": "2025-03-25",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "RO",
+   "name": "TAROM",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
+   "source_date": "2025-03-25",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "GA",
+   "name": "Garuda Indonesia",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
+   "source_date": "2025-03-25",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "MF",
+   "name": "Xiamen Air",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
+   "source_date": "2025-03-25",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "AM",
+   "name": "Aeroméxico",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
+   "source_date": "2025-03-25",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "AR",
+   "name": "Aerolíneas Argentinas",
+   "alliance": "SkyTeam",
+   "status": "online",
+   "source": "https://www.flysas.com/us-en/eurobonus/partners/airlines/aerolineas/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "UX",
+   "name": "Air Europa",
+   "alliance": "SkyTeam",
+   "status": "online-double",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "CI",
+   "name": "China Airlines",
+   "alliance": "SkyTeam",
+   "status": "online-double",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "VN",
+   "name": "Vietnam Airlines",
+   "alliance": "SkyTeam",
+   "status": "online-double",
+   "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "MU",
+   "name": "China Eastern",
+   "alliance": "SkyTeam",
+   "status": "unsettled",
+   "source": "https://awardfares.com/blog/china-eastern-eurobonus/",
+   "source_date": "2026-01-23",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "TP",
+   "name": "TAP Air Portugal",
+   "alliance": "-",
+   "status": "online",
+   "source": "https://awardfares.com/blog/tap-eurobonus-awards/",
+   "source_date": "2026-03-26",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "EY",
+   "name": "Etihad",
+   "alliance": "-",
+   "status": "phone",
+   "source": "https://www.flysas.com/lu-en/eurobonus/partners/airlines/etihad-airways/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "SQ",
+   "name": "Singapore Airlines",
+   "alliance": "-",
+   "status": "earn",
+   "source": "https://www.flysas.com/en/eurobonus/partners/airlines/singapore-airlines",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "ME",
+   "name": "Middle East Airlines",
+   "alliance": "SkyTeam",
+   "status": "earn",
+   "source": "https://www.flysas.com/en/eurobonus/partners/airlines/mea",
+   "source_date": "",
+   "checked": "2026-11-03"
+  },
+  {
+   "code": "WF",
+   "name": "Widerøe",
+   "alliance": "-",
+   "status": "ended",
+   "source": "https://www.flysas.com/en/eurobonus/partners/airlines/wideroe/",
+   "source_date": "",
+   "checked": "2026-11-03"
+  }
+ ]
+}

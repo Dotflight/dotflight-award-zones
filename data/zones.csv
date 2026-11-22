@@ -1,0 +1,251 @@
+zone,chart,country_code,country
+Domestic DK/NO/SE,sas,DK,Denmark
+Domestic DK/NO/SE,sas,NO,Norway
+Domestic DK/NO/SE,sas,SE,Sweden
+Nordic+,sas,DK,Denmark
+Nordic+,sas,EE,Estonia
+Nordic+,sas,FI,Finland
+Nordic+,sas,NO,Norway
+Nordic+,sas,SE,Sweden
+Nordic+,sas,DE,Germany
+Nordic+,sas,LV,Latvia
+Nordic+,sas,LT,Lithuania
+Nordic+,sas,PL,Poland
+Europe,sas,AL,Albania
+Europe,sas,AM,Armenia
+Europe,sas,AT,Austria
+Europe,sas,BY,Belarus
+Europe,sas,BE,Belgium
+Europe,sas,BA,Bosnia & Herzegovina
+Europe,sas,BG,Bulgaria
+Europe,sas,HR,Croatia
+Europe,sas,CY,Cyprus
+Europe,sas,CZ,Czechia
+Europe,sas,FR,France
+Europe,sas,GE,Georgia
+Europe,sas,GR,Greece
+Europe,sas,GL,Greenland
+Europe,sas,HU,Hungary
+Europe,sas,IS,Iceland
+Europe,sas,IE,Ireland
+Europe,sas,IT,Italy
+Europe,sas,LU,Luxembourg
+Europe,sas,MK,North Macedonia
+Europe,sas,MT,Malta
+Europe,sas,MD,Moldova
+Europe,sas,ME,Montenegro
+Europe,sas,NL,Netherlands
+Europe,sas,PT,Portugal
+Europe,sas,RO,Romania
+Europe,sas,RU,Russia
+Europe,sas,SK,Slovakia
+Europe,sas,SI,Slovenia
+Europe,sas,RS,Serbia
+Europe,sas,ES,Spain
+Europe,sas,CH,Switzerland
+Europe,sas,TR,Türkiye
+Europe,sas,GB,United Kingdom
+Europe,sas,UA,Ukraine
+Partner Europe,partner,AL,Albania
+Partner Europe,partner,AM,Armenia
+Partner Europe,partner,AT,Austria
+Partner Europe,partner,BY,Belarus
+Partner Europe,partner,BE,Belgium
+Partner Europe,partner,BA,Bosnia & Herzegovina
+Partner Europe,partner,BG,Bulgaria
+Partner Europe,partner,HR,Croatia
+Partner Europe,partner,CY,Cyprus
+Partner Europe,partner,CZ,Czechia
+Partner Europe,partner,DK,Denmark
+Partner Europe,partner,EE,Estonia
+Partner Europe,partner,FI,Finland
+Partner Europe,partner,FR,France
+Partner Europe,partner,GE,Georgia
+Partner Europe,partner,DE,Germany
+Partner Europe,partner,GR,Greece
+Partner Europe,partner,GL,Greenland
+Partner Europe,partner,HU,Hungary
+Partner Europe,partner,IS,Iceland
+Partner Europe,partner,IE,Ireland
+Partner Europe,partner,IT,Italy
+Partner Europe,partner,LV,Latvia
+Partner Europe,partner,LT,Lithuania
+Partner Europe,partner,LU,Luxembourg
+Partner Europe,partner,MK,North Macedonia
+Partner Europe,partner,MT,Malta
+Partner Europe,partner,MD,Moldova
+Partner Europe,partner,ME,Montenegro
+Partner Europe,partner,NL,Netherlands
+Partner Europe,partner,NO,Norway
+Partner Europe,partner,PL,Poland
+Partner Europe,partner,PT,Portugal
+Partner Europe,partner,RO,Romania
+Partner Europe,partner,SK,Slovakia
+Partner Europe,partner,SI,Slovenia
+Partner Europe,partner,RS,Serbia
+Partner Europe,partner,ES,Spain
+Partner Europe,partner,SE,Sweden
+Partner Europe,partner,CH,Switzerland
+Partner Europe,partner,TR,Türkiye
+Partner Europe,partner,GB,United Kingdom
+Partner Europe,partner,UA,Ukraine
+North America,partner,CA,Canada
+North America,partner,MX,Mexico
+North America,partner,US,United States
+Central America and Caribbean,partner,AG,Antigua & Barbuda
+Central America and Caribbean,partner,AW,Aruba
+Central America and Caribbean,partner,BS,Bahamas
+Central America and Caribbean,partner,BB,Barbados
+Central America and Caribbean,partner,BZ,Belize
+Central America and Caribbean,partner,BM,Bermuda
+Central America and Caribbean,partner,BQ,Caribbean Netherlands
+Central America and Caribbean,partner,KY,Cayman Islands
+Central America and Caribbean,partner,CR,Costa Rica
+Central America and Caribbean,partner,CU,Cuba
+Central America and Caribbean,partner,CW,Curaçao
+Central America and Caribbean,partner,DO,Dominican Republic
+Central America and Caribbean,partner,SV,El Salvador
+Central America and Caribbean,partner,GD,Grenada
+Central America and Caribbean,partner,GP,Guadeloupe
+Central America and Caribbean,partner,GT,Guatemala
+Central America and Caribbean,partner,HT,Haiti
+Central America and Caribbean,partner,HN,Honduras
+Central America and Caribbean,partner,JM,Jamaica
+Central America and Caribbean,partner,MQ,Martinique
+Central America and Caribbean,partner,NI,Nicaragua
+Central America and Caribbean,partner,PA,Panama
+Central America and Caribbean,partner,PR,Puerto Rico
+Central America and Caribbean,partner,LC,St. Lucia
+Central America and Caribbean,partner,KN,St. Kitts & Nevis
+Central America and Caribbean,partner,VI,U.S. Virgin Islands
+Central America and Caribbean,partner,SX,Sint Maarten
+Central America and Caribbean,partner,TT,Trinidad & Tobago
+Central America and Caribbean,partner,TC,Turks & Caicos Islands
+Central America and Caribbean,partner,VG,British Virgin Islands
+South America,partner,AR,Argentina
+South America,partner,BO,Bolivia
+South America,partner,BR,Brazil
+South America,partner,CL,Chile
+South America,partner,CO,Colombia
+South America,partner,EC,Ecuador
+South America,partner,GF,French Guiana
+South America,partner,GY,Guyana
+South America,partner,SR,Suriname
+South America,partner,PY,Paraguay
+South America,partner,PE,Peru
+South America,partner,UY,Uruguay
+South America,partner,VE,Venezuela
+North/Central Africa and Middle East,partner,DZ,Algeria
+North/Central Africa and Middle East,partner,AZ,Azerbaijan
+North/Central Africa and Middle East,partner,BH,Bahrain
+North/Central Africa and Middle East,partner,BJ,Benin
+North/Central Africa and Middle East,partner,BF,Burkina Faso
+North/Central Africa and Middle East,partner,BI,Burundi
+North/Central Africa and Middle East,partner,CM,Cameroon
+North/Central Africa and Middle East,partner,TD,Chad
+North/Central Africa and Middle East,partner,CG,Congo - Brazzaville
+North/Central Africa and Middle East,partner,CI,Côte d’Ivoire
+North/Central Africa and Middle East,partner,DJ,Djibouti
+North/Central Africa and Middle East,partner,EG,Egypt
+North/Central Africa and Middle East,partner,GQ,Equatorial Guinea
+North/Central Africa and Middle East,partner,ER,Eritrea
+North/Central Africa and Middle East,partner,ET,Ethiopia
+North/Central Africa and Middle East,partner,GA,Gabon
+North/Central Africa and Middle East,partner,GM,Gambia
+North/Central Africa and Middle East,partner,GH,Ghana
+North/Central Africa and Middle East,partner,GN,Guinea
+North/Central Africa and Middle East,partner,GW,Guinea-Bissau
+North/Central Africa and Middle East,partner,IR,Iran
+North/Central Africa and Middle East,partner,IQ,Iraq
+North/Central Africa and Middle East,partner,IL,Israel
+North/Central Africa and Middle East,partner,JO,Jordan
+North/Central Africa and Middle East,partner,KE,Kenya
+North/Central Africa and Middle East,partner,CD,Congo - Kinshasa
+North/Central Africa and Middle East,partner,CF,Central African Republic
+North/Central Africa and Middle East,partner,KW,Kuwait
+North/Central Africa and Middle East,partner,LB,Lebanon
+North/Central Africa and Middle East,partner,LR,Liberia
+North/Central Africa and Middle East,partner,LY,Libya
+North/Central Africa and Middle East,partner,ML,Mali
+North/Central Africa and Middle East,partner,MR,Mauritania
+North/Central Africa and Middle East,partner,MA,Morocco
+North/Central Africa and Middle East,partner,NE,Niger
+North/Central Africa and Middle East,partner,NG,Nigeria
+North/Central Africa and Middle East,partner,OM,Oman
+North/Central Africa and Middle East,partner,QA,Qatar
+North/Central Africa and Middle East,partner,CV,Cape Verde
+North/Central Africa and Middle East,partner,RW,Rwanda
+North/Central Africa and Middle East,partner,ST,São Tomé & Príncipe
+North/Central Africa and Middle East,partner,SA,Saudi Arabia
+North/Central Africa and Middle East,partner,SN,Senegal
+North/Central Africa and Middle East,partner,SC,Seychelles
+North/Central Africa and Middle East,partner,SL,Sierra Leone
+North/Central Africa and Middle East,partner,SO,Somalia
+North/Central Africa and Middle East,partner,SD,Sudan
+North/Central Africa and Middle East,partner,SY,Syria
+North/Central Africa and Middle East,partner,TZ,Tanzania
+North/Central Africa and Middle East,partner,TG,Togo
+North/Central Africa and Middle East,partner,TN,Tunisia
+North/Central Africa and Middle East,partner,UG,Uganda
+North/Central Africa and Middle East,partner,AE,United Arab Emirates
+North/Central Africa and Middle East,partner,YE,Yemen
+Southern Africa,partner,AO,Angola
+Southern Africa,partner,BW,Botswana
+Southern Africa,partner,LS,Lesotho
+Southern Africa,partner,MG,Madagascar
+Southern Africa,partner,MW,Malawi
+Southern Africa,partner,MU,Mauritius
+Southern Africa,partner,MZ,Mozambique
+Southern Africa,partner,NA,Namibia
+Southern Africa,partner,RE,Réunion
+Southern Africa,partner,SZ,Eswatini
+Southern Africa,partner,ZA,South Africa
+Southern Africa,partner,ZM,Zambia
+Southern Africa,partner,ZW,Zimbabwe
+"Central, East and South Asia",partner,CN,China
+"Central, East and South Asia",partner,HK,Hong Kong SAR China
+"Central, East and South Asia",partner,MO,Macao SAR China
+"Central, East and South Asia",partner,JP,Japan
+"Central, East and South Asia",partner,KZ,Kazakhstan
+"Central, East and South Asia",partner,KG,Kyrgyzstan
+"Central, East and South Asia",partner,MN,Mongolia
+"Central, East and South Asia",partner,KR,South Korea
+"Central, East and South Asia",partner,TW,Taiwan
+"Central, East and South Asia",partner,TJ,Tajikistan
+"Central, East and South Asia",partner,TM,Turkmenistan
+"Central, East and South Asia",partner,UZ,Uzbekistan
+"Central, East and South Asia",partner,AF,Afghanistan
+"Central, East and South Asia",partner,BD,Bangladesh
+"Central, East and South Asia",partner,IN,India
+"Central, East and South Asia",partner,MV,Maldives
+"Central, East and South Asia",partner,NP,Nepal
+"Central, East and South Asia",partner,PK,Pakistan
+"Central, East and South Asia",partner,LK,Sri Lanka
+"Central, East and South Asia",partner,RU,Russia
+South East Asia,partner,TH,Thailand
+South East Asia,partner,VN,Vietnam
+South East Asia,partner,MM,Myanmar (Burma)
+South East Asia,partner,KH,Cambodia
+South East Asia,partner,LA,Laos
+South East Asia,partner,BN,Brunei
+South East Asia,partner,GU,Guam
+South East Asia,partner,ID,Indonesia
+South East Asia,partner,MY,Malaysia
+South East Asia,partner,PG,Papua New Guinea
+South East Asia,partner,PH,Philippines
+South East Asia,partner,SG,Singapore
+Pacific,partner,AU,Australia
+Pacific,partner,CK,Cook Islands
+Pacific,partner,FJ,Fiji
+Pacific,partner,PF,French Polynesia
+Pacific,partner,MP,Northern Mariana Islands
+Pacific,partner,MH,Marshall Islands
+Pacific,partner,PW,Palau
+Pacific,partner,FM,Micronesia
+Pacific,partner,NC,New Caledonia
+Pacific,partner,NZ,New Zealand
+Pacific,partner,NU,Niue
+Pacific,partner,NF,Norfolk Island
+Pacific,partner,TO,Tonga
+Pacific,partner,WS,Samoa
+Pacific,partner,US-HI,Hawaii (USA)
