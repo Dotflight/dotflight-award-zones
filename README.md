@@ -27,7 +27,8 @@ booking details or data from paid tools.
 ## Licence
 
 CC BY 4.0 covers Dotflight's own work: the mapping of countries and airports to zones, the notes and the structure.
-The facts themselves are SAS's. Airports and country codes come from the airportsdata package (MIT licence); country
+Facts from SAS's pages are SAS's;
+others are reported, each with its source and how sure it is (`evidence`, `verification`). Airports and country codes come from the airportsdata package (MIT licence); country
 names from the Unicode CLDR (notices in `NOTICE`). Please credit: **Source: Dotflight (dotflight.se)**.
 
 Dotflight is a Chrome extension that finds the dates with award seats in your own SAS search: https://chromewebstore.google.com/detail/dotflight/caelmnlbhppcidjkhnamalebdjcidlhl?utm_source=github&utm_medium=readme&utm_campaign=award-zones

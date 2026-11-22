@@ -3,10 +3,11 @@ body:
     attributes:
       value: |
         An idea for this data or how it is shared. Please keep it public and general. Never post:
-        - seats, dates or prices you saw in your own SAS account or app, and screenshots of them;
-        - booking references, EuroBonus numbers, names, email addresses or anything else about a person;
-        - data copied from paid tools or other award search sites (their terms and database rights apply);
-        - anything SAS or a partner has not published openly.
+        - seats, dates or prices you saw while searching in your own SAS account or app;
+        - screenshots of any account, search or booking;
+        - booking references, ticket numbers, EuroBonus numbers, names, email addresses or anything else about a person;
+        - names of SAS staff, case numbers, or SAS's words quoted;
+        - data copied from paid tools or other award search sites (their terms and database rights apply).
   - type: textarea
     id: text
     attributes:
