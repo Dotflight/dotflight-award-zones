@@ -1,0 +1,22 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Talk about EuroBonus award zones and partners. Please keep it public and general. Never post:
+        - seats, dates or prices you saw in your own SAS account or app, and screenshots of them;
+        - booking references, EuroBonus numbers, names, email addresses or anything else about a person;
+        - data copied from paid tools or other award search sites (their terms and database rights apply);
+        - anything SAS or a partner has not published openly.
+  - type: textarea
+    id: text
+    attributes:
+      label: Your post
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before you post
+      options:
+        - label: There are no personal details, nothing from my own SAS account and no screenshots of it.
+          required: true
