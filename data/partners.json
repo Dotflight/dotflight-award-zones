@@ -8,8 +8,11 @@
    "alliance": "SkyTeam",
    "status": "online",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "AF",
@@ -17,8 +20,11 @@
    "alliance": "SkyTeam",
    "status": "online",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "KL",
@@ -26,8 +32,11 @@
    "alliance": "SkyTeam",
    "status": "online",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "DL",
@@ -35,8 +44,11 @@
    "alliance": "SkyTeam",
    "status": "online",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "VS",
@@ -44,8 +56,11 @@
    "alliance": "SkyTeam",
    "status": "online",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "KE",
@@ -53,8 +68,11 @@
    "alliance": "SkyTeam",
    "status": "online",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "SV",
@@ -62,8 +80,11 @@
    "alliance": "SkyTeam",
    "status": "online",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "KQ",
@@ -72,7 +93,10 @@
    "status": "online",
    "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
    "source_date": "2025-03-25",
-   "checked": "2026-11-03"
+   "evidence": "D",
+   "verification": "unsettled",
+   "reports": 0,
+   "checked": "2026-11-22"
   },
   {
    "code": "RO",
@@ -81,7 +105,10 @@
    "status": "online",
    "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
    "source_date": "2025-03-25",
-   "checked": "2026-11-03"
+   "evidence": "D",
+   "verification": "unsettled",
+   "reports": 0,
+   "checked": "2026-11-22"
   },
   {
    "code": "GA",
@@ -90,7 +117,10 @@
    "status": "online",
    "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
    "source_date": "2025-03-25",
-   "checked": "2026-11-03"
+   "evidence": "D+D",
+   "verification": "disputed",
+   "reports": 0,
+   "checked": "2026-11-22"
   },
   {
    "code": "MF",
@@ -99,7 +129,10 @@
    "status": "online",
    "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
    "source_date": "2025-03-25",
-   "checked": "2026-11-03"
+   "evidence": "D",
+   "verification": "unsettled",
+   "reports": 0,
+   "checked": "2026-11-22"
   },
   {
    "code": "AM",
@@ -108,7 +141,10 @@
    "status": "online",
    "source": "https://awardfares.com/blog/booking-skyteam-airlines-with-eurobonus/",
    "source_date": "2025-03-25",
-   "checked": "2026-11-03"
+   "evidence": "D",
+   "verification": "unsettled",
+   "reports": 0,
+   "checked": "2026-11-22"
   },
   {
    "code": "AR",
@@ -117,6 +153,9 @@
    "status": "online",
    "source": "https://www.flysas.com/us-en/eurobonus/partners/airlines/aerolineas/",
    "source_date": "",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
    "checked": "2026-11-03"
   },
   {
@@ -125,8 +164,11 @@
    "alliance": "SkyTeam",
    "status": "online-double",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "CI",
@@ -134,8 +176,11 @@
    "alliance": "SkyTeam",
    "status": "online-double",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "VN",
@@ -143,17 +188,23 @@
    "alliance": "SkyTeam",
    "status": "online-double",
    "source": "https://www.flysas.com/en/eurobonus/points/use/partner-award-flights/",
-   "source_date": "",
-   "checked": "2026-11-03"
+   "source_date": "2026-11-02",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
+   "checked": "2026-11-02"
   },
   {
    "code": "MU",
    "name": "China Eastern",
    "alliance": "SkyTeam",
-   "status": "unsettled",
+   "status": "not-ticketed",
    "source": "https://awardfares.com/blog/china-eastern-eurobonus/",
    "source_date": "2026-01-23",
-   "checked": "2026-11-03"
+   "evidence": "D+D",
+   "verification": "reported",
+   "reports": 0,
+   "checked": "2026-11-22"
   },
   {
    "code": "TP",
@@ -162,7 +213,10 @@
    "status": "online",
    "source": "https://awardfares.com/blog/tap-eurobonus-awards/",
    "source_date": "2026-03-26",
-   "checked": "2026-11-03"
+   "evidence": "D",
+   "verification": "unsettled",
+   "reports": 0,
+   "checked": "2026-11-22"
   },
   {
    "code": "EY",
@@ -171,6 +225,9 @@
    "status": "phone",
    "source": "https://www.flysas.com/lu-en/eurobonus/partners/airlines/etihad-airways/",
    "source_date": "",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
    "checked": "2026-11-03"
   },
   {
@@ -180,6 +237,9 @@
    "status": "earn",
    "source": "https://www.flysas.com/en/eurobonus/partners/airlines/singapore-airlines",
    "source_date": "",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
    "checked": "2026-11-03"
   },
   {
@@ -189,6 +249,9 @@
    "status": "earn",
    "source": "https://www.flysas.com/en/eurobonus/partners/airlines/mea",
    "source_date": "",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
    "checked": "2026-11-03"
   },
   {
@@ -198,6 +261,9 @@
    "status": "ended",
    "source": "https://www.flysas.com/en/eurobonus/partners/airlines/wideroe/",
    "source_date": "",
+   "evidence": "A",
+   "verification": "verified",
+   "reports": 0,
    "checked": "2026-11-03"
   }
  ]

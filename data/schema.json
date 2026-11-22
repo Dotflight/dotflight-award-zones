@@ -10,9 +10,12 @@
   "zone": "zone key, as in zones.csv"
  },
  "partners.csv": {
-  "status": "online | online-double | phone | earn | ended | unsettled",
+  "status": "online | online-double | phone | earn | ended | unsettled | not-ticketed",
   "source": "public page the status rests on",
   "source_date": "date of that source, if it has one",
+  "evidence": "A (SAS or the airline) | B (SAS customer service in writing) | C (press, schedules) | D (community, booking reports); D+D = two independent",
+  "verification": "verified (A) | reported | disputed | unsettled - never SAS's position unless A",
+  "reports": "how many member booking reports back the row (a count only)",
   "checked": "date Dotflight last checked this row"
  }
 }

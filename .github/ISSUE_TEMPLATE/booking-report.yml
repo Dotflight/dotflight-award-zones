@@ -1,0 +1,103 @@
+name: Booking report
+description: Whether SAS could ticket a partner award you booked with EuroBonus points.
+title: "Booking report: "
+labels: ["booking-report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Only what happened when you booked: no dates, no booking or ticket numbers, no names. Your report is public
+        on GitHub and stays up; Dotflight reuses it only as a count. Never send:
+        - seats, dates or prices you saw while searching in your own SAS account or app;
+        - screenshots of any account, search or booking;
+        - booking references, ticket numbers, EuroBonus numbers, names, email addresses or anything else about a person;
+        - names of SAS staff, case numbers, or SAS's words quoted;
+        - data copied from paid tools or other award search sites (their terms and database rights apply).
+  - type: input
+    id: airline
+    attributes:
+      label: Airline that flies it
+      placeholder: China Eastern
+    validations:
+      required: true
+  - type: input
+    id: route
+    attributes:
+      label: City pair
+      placeholder: ARN-PVG
+    validations:
+      required: true
+  - type: dropdown
+    id: trip
+    attributes:
+      label: Trip
+      options: ["One way", "Round trip"]
+    validations:
+      required: true
+  - type: dropdown
+    id: cabin
+    attributes:
+      label: Cabin
+      options: ["Economy", "Premium", "Business", "First"]
+    validations:
+      required: true
+  - type: dropdown
+    id: channel
+    attributes:
+      label: Booked on
+      options: ["SAS website", "SAS app", "SAS by phone"]
+    validations:
+      required: true
+  - type: dropdown
+    id: party
+    attributes:
+      label: Travellers
+      options: ["1", "2", "3 or more"]
+    validations:
+      required: true
+  - type: dropdown
+    id: lead
+    attributes:
+      label: Booked how long before departure
+      options: ["Less than 72 hours", "3 to 30 days", "More than 30 days"]
+    validations:
+      required: true
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: What happened
+      options:
+        - "A ticket number was issued"
+        - "The booking showed, but no ticket was issued"
+        - "Ticketed, later cancelled by SAS or the airline"
+        - "SAS could not ticket it"
+        - "It failed at payment"
+        - "Other"
+    validations:
+      required: true
+  - type: dropdown
+    id: points
+    attributes:
+      label: Points charged (only if ticketed)
+      options: ["As SAS's partner chart", "Double the chart", "Something else", "Not ticketed / don't know"]
+  - type: dropdown
+    id: fee
+    attributes:
+      label: Booking fee per traveller (only if ticketed)
+      options: ["None", "Under 300 SEK", "300-700 SEK", "Over 700 SEK", "Not ticketed / don't know"]
+  - type: textarea
+    id: said
+    attributes:
+      label: What SAS said, in your own words (optional)
+      description: No staff names, no case numbers, no quotes.
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Before you send
+      options:
+        - label: No dates, booking or ticket numbers, names or other personal details are in this report.
+          required: true
+        - label: This is what happened to my own booking, not copied from someone else or a paid tool.
+          required: true
+        - label: I understand the report is public on GitHub and Dotflight reuses it only as a count.
+          required: true
